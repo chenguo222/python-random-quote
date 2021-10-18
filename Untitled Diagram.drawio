@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T05:53:51.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="oYJ-U8PY6bQjyla9LSYi" version="15.3.8" type="github"><diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">7V1dc6I8FP413u5I+FAvW7XtXuxsp+3MXkeImCkSJ0Bb31//BkjEkFixAu0Ae7GrJyEf53mSPOeQbkfmfPtxT+Fu84d4KBiBsfcxMhcjAMDYMNg/qWWfW4yxM8stPsUetxWGZ/wfEhW5NcEeiqSKMSFBjHey0SVhiNxYskFKybtcbU0Cudcd9JFieHZhIKy/7ML+D3vxhtsNMZG04AFhf8M7n4JJXrCC7qtPSRLyHkMSorxkC0UzfJbRBnrk/chkLkfmnBIS55+2H3MUpJ4VPsufuztRepgKRWFc5QGQP/AGg4TPe778y4cW74Uvsrmg9BFjZN6ucRDMSUBoVmga44k5Y43fRjElr0iUZJNmRjHB9EmfQg+zkZXqrEkYP/PeDP79qIO77I+olxPFsNh3dbJ8/m+IxujjyMQnf4/IFsV0z6rwUmfCPbAXxLUF7u8F5mDM4docwe1wG+RE8w+NF/5mH7jL9e43Ffcv0C6J0wEuMGW0Zj7oERiODIZpacEADYFhKWD8Xa+xy5bumKxHaa9O5mE22X+Evu4CmJU9kyCJMQmjHiFljmWkLLvVZWOfQeoxWQXYZR+eUAD7ho1tfSs2jnqiMFdHmTxY4DccMTh6hMZ08q1oTDRokB2i2aroEQwG+F4cpgoONyEM9hGO5IOlhyuE6WYJGQe0iszszFlyH5AVTB94TnY7QuMeIzNpVxyLSLCKILtlIVdM2V/MXKys/iI1axcpQ0GKxTGQxtt0SipaDyihOIoziTYsq+m0XbDUmF9eVr/DmD2BfRRmtiPcBqxmk3axUhMEv1/6LRdsuyQXjHYRUbMECxjDFYzStXLjbXHIdrbe6esyKm1LhXMZgRfkbkLmCn8v72hPKEKQups+Q9WyVlATBBJUxd7GllWqDxB9Y6V9UnNlhNoWCGqw+geG0EdczT1Swny2HSLXaSnT1vZRdC50vcMhDF2cRa9HSB2D2VusWj6gwLlY9iHZQrZ2xuxAIgnt136nYNPuiQTU6FXGRtr9eoxLy+cQOBeovlDI1Hbo91MllNFpOTTVvLt+Qn4SwJjQksiGoccMy3BN2MbGl1EP5YIxnn2rXjj7glvC75EE2N33GZ62JcInMeycbHcBhllCrseAtKwLzkSqx1uctLn1F6G2FYL6elufSyhvbv1LZCtQtS0X1GBV8T7yfCTcg4IVeV8WhtvMwArSKWOXxbQCB3E3M3UUCr2b9O4n+7oKiPuam+5wOqyDx48RkKFkGADTsuzFZz7P4zM+q9wUQ+ojXovLonQuVXABMiqGo0PF0KFyMOpg4f09EpypLX1noOhMtJFPjj9WoKu0ZJwet2gqd4rSVEaUgx+q3ZJUg+cOcMdUuWMP3KmdO2pw303uWAN3aueOmoDoJnecgTu1c0dNj/wE7ngw2hz0bf3iZzIQ6VMiMbDg/qjaLq0QnR6zMS79SAQ4hMAFNfNGv0xUNSv0E4ha/yY3HbhZKzfLb6ltu3ZqquF9N6k5BI01c3M2aZyb6iWJDnBzqnJzdhk1nTapWT4cr6Dm6XE3oA07mQubqdwRN/i/Sh5tirIp8kzqI4/aVH3ksTqZDBNMkdhjXMce7buIptgzrY89alM1sqeT6TDBFIk94Dr2aN81NsWeWX3sUZuqkT2gk+zRKHJxzX+QPTWy52emxK5lj6Vhz4UvcgbdU4E9ncxTCaZI7LkwHT/ongrsUe/ydIE9mnjduDBgL2VKmj25yv/b0hUn1+lxN8CeTiYiDU3EDi6M2MsoNHpyldlzxcl1etwNsKeTqUKgidjBhRF7GYVGT64ye644uU6PuwH2dDJZCDQRu5jYV9nTaMReZs8VEfvpcdfPHruT2ULtO7QLI/ZB91RgTyezhUATsV969XLQPRXYAzrJHk3EfukFukH3VGBPJ7OFgikSey68NTfongrs6WS2UPeiYrg6VO/VIafxa222+oOeHeXmcOWy5mttVs3cZF+L3zWQVy9+nYO5/B8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-18T06:40:39.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="OZxYpL9nS2W3cBlyome2" version="15.3.8" type="github" pages="2">
+  <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel dx="1474" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-58" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;能力描述框架&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="817" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-59" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;语用能力&lt;/span&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="760" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;语言表达能力&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-61" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;语言理解能力&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-62" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;翻译能力&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-63" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;语言知识&lt;/font&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-64" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;语言使用策略&lt;/span&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="960" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-65" value="语言理解策略" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="865" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-66" value="书面表达能力" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="673" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-67" value="口头表达能力&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-68" value="叙述&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="456" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-69" value="描述&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="300" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-70" value="说明&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="612" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-71" value="论述" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="768" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-72" value="互动&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-73" value="指示" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="924" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-75" value="翻译策略&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-76" value="语言表达策略" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1058" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-77" value="口头表达策略" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-78" value="面表达策略&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-79" value="评估/补救&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-80" value="执行&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlaxKZ8o50aW13DuZvyz-81" value="规划" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="870" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GpAVtc3-4A0VKJI3cnyH-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=18;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vlaxKZ8o50aW13DuZvyz-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="520" as="sourcePoint" />
+            <mxPoint x="430" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3X8aNqP5ZTjSzMPVC_Yu" name="Page-2">
+    <mxGraphModel dx="977" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="-9anEPGIW3KinixXxjvg-0" />
+        <mxCell id="-9anEPGIW3KinixXxjvg-1" parent="-9anEPGIW3KinixXxjvg-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
